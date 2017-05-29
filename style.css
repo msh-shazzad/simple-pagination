@@ -1,0 +1,18 @@
+.pagination{
+    list-style: none;
+}
+
+.pagination li{
+    float: left;
+    /*border-left: 1px solid black;*/
+    text-decoration: none;
+    margin: 0px 2px;
+}
+
+.pagination li a{
+    text-decoration: none;
+}
+
+/*.pagination li:first-child {
+  border-left: none;
+}*/
